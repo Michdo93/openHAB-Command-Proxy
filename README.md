@@ -1,6 +1,8 @@
 # openHAB-Command-Proxy
 Send a command as a GET request to this REST API developed with Python and Flask for an openHAB item and it forwards this as a POST request to the REST API of openHAB.
 
+This repository is archieved because there are [a newer solution](https://github.com/Michdo93/openHAB-Command-Proxy-Jython).
+
 ## Installation
 
 At first you have to install following dependencies:
